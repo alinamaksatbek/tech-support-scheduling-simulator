@@ -117,5 +117,5 @@ When the system is completely idle, the clock jumps straight to the next arrival
 
 ## Authors
 
-- Akhjol Khainar
+
 - Alina Maksatbek kyzy

@@ -1,7 +1,6 @@
 /*
   Programlama Lab. I - Proje 1
  * Teknik destek gorevlerinin 4 teknisyen tarafindan yurutulmesi simulasyonu
- * 240201155_Akhjol Khainar
  * 250201144_Alina Maksatbek kyzy
  */
 
